@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BulbOnOff/static/css/main.653ee43e.css",
+    "main.js": "/BulbOnOff/static/js/main.5220889b.js",
+    "static/media/offbulb.jpg": "/BulbOnOff/static/media/offbulb.3e79efadcdd6d712a02f.jpg",
+    "static/media/onbulb.webp": "/BulbOnOff/static/media/onbulb.e3e4f9421ac565239eb0.webp",
+    "index.html": "/BulbOnOff/index.html",
+    "main.653ee43e.css.map": "/BulbOnOff/static/css/main.653ee43e.css.map",
+    "main.5220889b.js.map": "/BulbOnOff/static/js/main.5220889b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653ee43e.css",
+    "static/js/main.5220889b.js"
+  ]
+}
