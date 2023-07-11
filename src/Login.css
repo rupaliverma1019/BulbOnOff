@@ -1,0 +1,29 @@
+.sign-in-container {
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 22%;
+    border-radius: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    border-radius: 5px;
+}
+
+.container {
+    background-image: linear-gradient( white, rgb(225, 135, 195));
+}
+
+form input {
+    padding: 15px;
+    background-image: conic-gradient(rgb(156, 126, 149), rgb(199, 146, 182), pink);
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+form button {
+    padding: 4%;
+    background-color: rgb(131, 135, 131);
+}
